@@ -1,6 +1,6 @@
 # DIO | APrendendo git e github
 
--- GitHub
+- GitHub
 
 Repositório para armazenar resumos sobre Git e GitHub do curso de versionamento de código com Git e GitHub
 
